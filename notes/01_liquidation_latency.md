@@ -2,7 +2,7 @@
 
 **October 2025 – September 2026 · Aave v3 (Core and Lido), SparkLend, Morpho Blue, Compound v3**
 
-> Research note #1. Code: `liquidation_latency.py`. Per-event dataset produced by the script. Version of
+> Luigi Palmieri. Research note #1. Code: `liquidation_latency.py`. Per-event dataset produced by the script. Version of
 > 13 October 2026.
 
 ---

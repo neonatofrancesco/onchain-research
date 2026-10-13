@@ -1,5 +1,7 @@
 # On-chain research notes
 
+**Luigi Palmieri** · [GitHub](https://github.com/neonatofrancesco)
+
 Independent, reproducible research on DeFi market structure and token events, built from public on-chain
 data and free APIs. Each note states its hypotheses before looking at the data, tests them against placebo
 and control groups, and lists its own limitations.

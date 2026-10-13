@@ -2,7 +2,7 @@
 
 **Event study of 10 tokens with monthly unlocks on different days of the month · January 2024 – October 2026**
 
-> Research note #2. Code: `token_unlocks.py`. Version of 13 October 2026. This is not investment advice.
+> Luigi Palmieri. Research note #2. Code: `token_unlocks.py`. Version of 13 October 2026. This is not investment advice.
 
 ---
 
